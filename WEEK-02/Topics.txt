@@ -1,0 +1,15 @@
+TOPICS COVERED:
+  MODULE-5 (Understanding ML):
+    i. Supervised Learning
+    ii. Unsupervised Learning
+    iii. Reinforcement Learning
+    iv. Machine Learning Essential (Features, Labels, Training, Testing, Generalization)
+    v. Machine Learning Pipeline (Data Colection, Presprocessing, Training, Evaluation)
+    vi. Challenges (Bias, Overfitting, Underfitting)
+
+  MODULE-6 (Precprocessing Data):
+    i. Exploration of numerical data using histogram and boxplot
+    ii. Categorical Feature Exploration
+    iii. Numeric Features vs Target
+    iv. Categorical Features vs Target
+    v. Correlation Heatmap for Numeric Features
