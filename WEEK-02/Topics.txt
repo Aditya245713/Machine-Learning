@@ -13,3 +13,8 @@ TOPICS COVERED:
     iii. Numeric Features vs Target
     iv. Categorical Features vs Target
     v. Correlation Heatmap for Numeric Features
+
+MODULE-7 (Preprocessing Part-1):
+    i. Handling Missing Values (Drop columns, median, mode)
+    ii. Encoding Categorical Values (Level and One-Hot Encoding)
+    iii. Scaling (Standardization and Min-max Scaling)
